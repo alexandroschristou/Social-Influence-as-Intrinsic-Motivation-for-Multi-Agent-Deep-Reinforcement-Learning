@@ -1,5 +1,9 @@
 # cgt-team6
 
+Group project recreating https://arxiv.org/abs/1810.08647.
+Added new simpler environments to test our implementation.
+Outcome = restricted succes
+
 Use these instructions to install the SSD games: 
 * https://github.com/eugenevinitsky/sequential_social_dilemma_games
 
